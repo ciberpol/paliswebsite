@@ -1,9 +1,19 @@
 h1 {
     color: deeppink;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: uppercase;
 }
+
 h2 {
     color: cyan;
+
 }h3 {
     color: darkorange;
     font-size: 24px;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
 }
